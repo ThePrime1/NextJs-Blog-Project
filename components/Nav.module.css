@@ -1,0 +1,18 @@
+.content {
+    background: #14181f;
+}
+
+.nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav a {
+    color: white;
+    margin: 20px;
+}
+
+.nav a:hover {
+    color: #949494;
+}

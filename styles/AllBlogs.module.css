@@ -1,0 +1,26 @@
+/* .body {
+    background: #fffdf5;
+} */
+
+.content {
+    max-width: 960px;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.content:hover {
+    border-left: 5px solid red;
+}
+
+.a {
+    color: #07080f;
+}
+
+.h1 {
+    font-weight: 600;
+    font-size: 20px;
+}
+.p {
+    font-weight: 300;
+    font-size: 11px;
+}
